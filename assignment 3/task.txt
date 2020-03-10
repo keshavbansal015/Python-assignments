@@ -1,0 +1,3 @@
+Along with this assignment peform EDA on iris dataset as well as haberman dataset. 
+you can download both the datasets from kaggle.
+If you are facing any issue on getting the dataset then shoot me a mail. i will mail it to you.
